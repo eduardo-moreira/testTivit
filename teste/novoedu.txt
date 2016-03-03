@@ -1,4 +1,12 @@
 oi
 oi tb
+<<<<<<< HEAD
 tchau
 mas ja vai?
+=======
+<<<<<<< HEAD
+444
+=======
+tchau
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
